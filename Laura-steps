@@ -1,0 +1,9 @@
+Activate the virtual environment: 
+    source myvenv/bin/activate 
+
+Change directory 
+    cd djangogirls
+
+Runserver
+    python manage.py runserver
+
